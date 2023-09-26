@@ -1,9 +1,3 @@
-### Olá 👋
-
-Meu nome é Tiago, tenho 21 anos e estudo programação desde os 14. Entusiasta do React + NodeJS e no resto do tempo programando jogos na Unity com C#! 🎮 
-
-My name is Tiago, I'm 21 and I've been studying programming since I was 14. I'm a React + NodeJS enthusiast and love to mess around with game development on Unity with C#! 🎮 
-
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/umtiagoporai)](https://twitter.com/umtiagoporai)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-ferreira-de-alcantara-campos-3126a6144/)](https://www.linkedin.com/in/tiago-ferreira-de-alcantara-campos-3126a6144/)
 
